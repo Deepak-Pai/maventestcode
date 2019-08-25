@@ -11,7 +11,7 @@ public static String chromeDriverPath = "C:\\Users\\deepa\\eclipse-workspace\\PH
 		System.setProperty("webdriver.chrome.driver", chromeDriverPath);
 		ChromeDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
-		driver.get("http://ec2-3-17-109-74.us-east-2.compute.amazonaws.com/index.php");
+		driver.get("http://ec2-3-17-109-75.us-east-2.compute.amazonaws.com/index.php");
 		String x = driver.getTitle();
 		System.out.println(x);
 		String z = null;
