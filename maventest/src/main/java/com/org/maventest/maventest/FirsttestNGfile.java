@@ -12,7 +12,6 @@ public class FirsttestNGfile {
 	 public String baseUrl = "http://ec2-3-17-109-74.us-east-2.compute.amazonaws.com/index.php";
 	    //String driverPath = "C:\\Users\\deepa\\eclipse-workspace\\PHP-App-Testing\\chromedriver.exe";
 	    String driverPath = "/usr/local/bin/chromedriver";
-	    
 	    public WebDriver driver ; 
 	    
 	    
