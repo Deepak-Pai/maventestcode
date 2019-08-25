@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="21064" started-at="2019-08-25T16:11:14 IST" finished-at="2019-08-25T16:11:35 IST">
+  <suite name="Default suite" duration-ms="20325" started-at="2019-08-25T16:55:18 IST" finished-at="2019-08-25T16:55:38 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="21064" started-at="2019-08-25T16:11:14 IST" finished-at="2019-08-25T16:11:35 IST">
-      <class name="fristtestngpackage.FirsttestNGfile1">
-        <test-method status="PASS" signature="VerifyAboutPageTitle()[pri:0, instance:fristtestngpackage.FirsttestNGfile1@7dc222ae]" name="VerifyAboutPageTitle" duration-ms="20898" started-at="2019-08-25T16:11:14 IST" finished-at="2019-08-25T16:11:35 IST">
+    <test name="Default test" duration-ms="20325" started-at="2019-08-25T16:55:18 IST" finished-at="2019-08-25T16:55:38 IST">
+      <class name="com.org.maventest.maventest.FirsttestNGfile">
+        <test-method status="PASS" signature="VerifyAboutPageTitle()[pri:0, instance:com.org.maventest.maventest.FirsttestNGfile@7dc222ae]" name="VerifyAboutPageTitle" duration-ms="20149" started-at="2019-08-25T16:55:18 IST" finished-at="2019-08-25T16:55:38 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyAboutPageTitle -->
-      </class> <!-- fristtestngpackage.FirsttestNGfile1 -->
+      </class> <!-- com.org.maventest.maventest.FirsttestNGfile -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
