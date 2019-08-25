@@ -3,8 +3,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class verify_about {
 
-	public static String chromeDriverPath = "/usr/local/bin/chromedriver";
-//public static String chromeDriverPath = "C:\\Users\\deepa\\eclipse-workspace\\PHP-App-Testing\\chromedriver.exe";
+	//public static String chromeDriverPath = "/usr/local/bin/chromedriver";
+public static String chromeDriverPath = "C:\\Users\\deepa\\eclipse-workspace\\PHP-App-Testing\\chromedriver.exe";
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -28,6 +28,7 @@ public class verify_about {
 		System.out.println(a);
 		if (z.length() > 0) {
 			System.out.println("Success");
+            
 		} else {
 			System.out.println("Failure");
 		}
