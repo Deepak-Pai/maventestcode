@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25094" started-at="2019-08-25T15:31:26 IST" finished-at="2019-08-25T15:31:51 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25094" started-at="2019-08-25T15:31:26 IST" finished-at="2019-08-25T15:31:51 IST">
+      <class name="fristtestngpackage.FirsttestNGfile">
+        <test-method status="PASS" signature="VerifyAboutPageTitle()[pri:0, instance:fristtestngpackage.FirsttestNGfile@4bb4de6a]" name="VerifyAboutPageTitle" duration-ms="24945" started-at="2019-08-25T15:31:26 IST" finished-at="2019-08-25T15:31:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyAboutPageTitle -->
+      </class> <!-- fristtestngpackage.FirsttestNGfile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
