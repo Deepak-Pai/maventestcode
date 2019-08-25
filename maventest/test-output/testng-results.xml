@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="20325" started-at="2019-08-25T16:55:18 IST" finished-at="2019-08-25T16:55:38 IST">
+  <suite name="Default suite" duration-ms="27549" started-at="2019-08-25T17:35:01 IST" finished-at="2019-08-25T17:35:28 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="20325" started-at="2019-08-25T16:55:18 IST" finished-at="2019-08-25T16:55:38 IST">
+    <test name="Default test" duration-ms="27549" started-at="2019-08-25T17:35:01 IST" finished-at="2019-08-25T17:35:28 IST">
       <class name="com.org.maventest.maventest.FirsttestNGfile">
-        <test-method status="PASS" signature="VerifyAboutPageTitle()[pri:0, instance:com.org.maventest.maventest.FirsttestNGfile@7dc222ae]" name="VerifyAboutPageTitle" duration-ms="20149" started-at="2019-08-25T16:55:18 IST" finished-at="2019-08-25T16:55:38 IST">
+        <test-method status="PASS" signature="VerifyAboutPageTitle()[pri:0, instance:com.org.maventest.maventest.FirsttestNGfile@b9afc07]" name="VerifyAboutPageTitle" duration-ms="27326" started-at="2019-08-25T17:35:01 IST" finished-at="2019-08-25T17:35:28 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyAboutPageTitle -->
